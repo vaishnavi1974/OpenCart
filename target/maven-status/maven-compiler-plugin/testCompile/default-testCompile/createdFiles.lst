@@ -1,0 +1,9 @@
+PageObjects\HomePage.class
+PageObjects\MyAccountPage.class
+PageObjects\LoginPage.class
+TestCase\DP.class
+PageObjects\BasePage.class
+TestCase\TC001_AcctRegistration.class
+TestCase\BaseCase.class
+PageObjects\Registration_Page.class
+TestCase\TC002_Login_DDT.class

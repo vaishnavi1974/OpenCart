@@ -11,7 +11,7 @@
         <version>3.5.4</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>CrossBrowser.xml</suiteXmlFile>
+            <suiteXmlFile>Login.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>

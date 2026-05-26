@@ -8,7 +8,7 @@
       <class name="TestCase.TC002_Login_DDT">
         <methods>
           <include name="setup_driver"/>
-          <include name="logintest" invocation-numbers="2 3"/>
+          <include name="logintest" invocation-numbers="3 4"/>
           <include name="driver_teardown"/>
         </methods>
       </class> <!-- TestCase.TC002_Login_DDT -->

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
       <class name="TestCase.TC002_Login_DDT">
         <methods>
           <include name="setup_driver"/>
-          <include name="logintest" invocation-numbers="3 4"/>
+          <include name="logintest" invocation-numbers="2 3 4"/>
           <include name="driver_teardown"/>
         </methods>
       </class> <!-- TestCase.TC002_Login_DDT -->

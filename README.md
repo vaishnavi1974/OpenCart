@@ -100,7 +100,3 @@ TestNG generates HTML/XML reports in the `test-output/` directory after each run
 ## 👤 Author
 
 **Vaishnavi Venkatesh** ([@vaishnavi1974](https://github.com/vaishnavi1974))
-
-## 📄 License
-
-No license specified yet. Add a `LICENSE` file if you'd like to make usage terms explicit.
